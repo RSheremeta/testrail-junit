@@ -25,5 +25,5 @@ This  Library helps you to integrate your JUnit-based tests with TestRail in an 
 
 ![Medium article](https://i.ibb.co/kBJnC55/2021-02-08-12-52-20.png)
 
-[here]: https://github.com/RSheremeta/TestRail-JUnit/releases
+[here]: https://github.com/RSheremeta/TestRail-JUnit/releases/tag/1.0
 [link]: https://rsheremeta.medium.com/integrate-your-junit-tests-with-testrail-bac4bfe31111
